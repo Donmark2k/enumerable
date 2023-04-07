@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Enumerable  <a name="about-project"></a>
 
-**Enumerable** is an app used to decode a morse code .
+**Enumerable app ** is an app used to implement a subset of the functionality of Enumerable .
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -76,12 +76,8 @@ After you're finished please remove all the comments and instructions!
 
 
 - **[Create a git flow]**
-- **[We added a morse code]**
-- **[We created a decode_char method]**
-- **[We created a decode_word method]**
-- **[We created a decode method]**
-- **[We ensured that it is working correctly]**
-
+- **[We added a module]**
+- **[We created a MyList class]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,19 +114,19 @@ Example command:
 
 ### Setup
 
-- Clone this repository to your desired folder: https://donmark2k.github.io/decode-morse/.git
+- Clone this repository to your desired folder: https://donmark2k.github.io/enumerable/.git
 - Run bundle install to install the dependencies.
 
 ### Install
 Install this project with:
 
--  cd decode-morse
+-  cd enumerable
 -  ubuntu version 22 or higher
 
 ### Usage
 To run the project, execute the following command:
 
-- ruby decode.rb
+- ruby test_list.rb
 
 ### Run tests
 
@@ -185,7 +181,7 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- I will add numbers and symbols to the hash table
+- I will add more enumerable functions
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

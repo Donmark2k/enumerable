@@ -9,5 +9,4 @@ class MyList
   def each(&block)
     @list.each(&block) if block_given?
   end
-
 end
