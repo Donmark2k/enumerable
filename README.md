@@ -60,9 +60,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode Morse  <a name="about-project"></a>
+# 📖 Enumerable  <a name="about-project"></a>
 
-**Decode Morse** is an app used to decode a morse code .
+**Enumerable** is an app used to decode a morse code .
 
 
 ## 🛠 Built With <a name="built-with"></a>
